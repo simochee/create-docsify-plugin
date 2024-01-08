@@ -6,7 +6,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/simochee/docsify-plugin-page-history.git"
+    "url": "git+https://github.com/simochee/{{PACKAGE_NAME}}.git"
   },
   "author": {
     "name": "simochee",
