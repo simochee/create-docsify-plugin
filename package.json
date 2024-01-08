@@ -2,6 +2,18 @@
   "name": "PACKAGE_NAME",
   "version": "0.0.0",
   "description": "",
+  "keywords": [
+    "docsify"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/simochee/PACKAGE_NAME.git"
+  },
+  "author": {
+    "name": "simochee",
+    "email": "lollipop@simochee.net",
+    "url": "https://simochee.net"
+  },
   "type": "module",
   "scripts": {
     "prepare": "husky install"
