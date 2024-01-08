@@ -1,5 +1,5 @@
 {
   "liveServer.settings.mount": [["/", "./dist"]],
-  "liveServer.settings.file": "dist/bundle.js",
+  "liveServer.settings.file": "dist/{{PACKAGE_NAME}}.js",
   "liveServer.settings.NoBrowser": true
 }
