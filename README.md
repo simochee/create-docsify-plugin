@@ -27,6 +27,20 @@ Insert a script tag to load the plugin script file after loading the Docsify scr
 
 how to use this plugin...
 
+## 😊 Development
+
+```shell
+# enable pnpm
+corepack enable pnpm
+
+# start rollup
+pnpm run dev
+```
+
+...and start server with [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension.
+
+Hosting on `http://localhost:5500` by default.
+
 ## 🛡️ License
 
 MIT
