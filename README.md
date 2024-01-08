@@ -27,19 +27,18 @@ Insert a script tag to load the plugin script file after loading the Docsify scr
 
 how to use this plugin...
 
-## 😊 Development
+## 💻 Development
 
-```shell
-# enable pnpm
-corepack enable pnpm
+1. Clone this repository
+1. Enable Corepack using `corepack enable`
+1. Install dependencies using `pnpm install`
+1. Run watch mode using `pnpm run watch`
+1. Start server using [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+1. Insert a script tag to load the plugin script file after loading the Docsify script.
 
-# start rollup
-pnpm run dev
+```html
+<script src="http://localhost:5500"></script>
 ```
-
-...and start server with [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension.
-
-Hosting on `http://localhost:5500` by default.
 
 ## 🛡️ License
 
