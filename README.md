@@ -23,7 +23,7 @@ Insert a script tag to load the plugin script file after loading the Docsify scr
   window.$docsify = {};
 </script>
 <script src="//cdn.jsdelivr.net/npm/docsify@v4/lib/docsify.min.js"></script>
-<script src="//cdn.jsdelivr.net/npm/{{PACKAGE_NAME}}"></script>
+<script src="//cdn.jsdelivr.net/npm/{{PACKAGE_NAME}}/lib/{{PACKAGE_NAME}}.min.js"></script>
 ```
 
 ## 🔰 Usage
