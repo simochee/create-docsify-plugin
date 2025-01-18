@@ -4,6 +4,11 @@ on:
   push:
     branches:
       - main
+    paths:
+      - src/**/*
+      - package.json
+      - pnpm-lock.yaml
+      - rollup.config.js
 
 jobs:
   release:
